@@ -1,0 +1,2 @@
+rootProject.name='mltest2'
+include ':app'

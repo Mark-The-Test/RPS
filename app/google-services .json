@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "960857002406",
+    "firebase_url": "https://mltest-aa2ce.firebaseio.com",
+    "project_id": "mltest-aa2ce",
+    "storage_bucket": "mltest-aa2ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960857002406:android:e4c4c5497b06343ba53f67",
+        "android_client_info": {
+          "package_name": "com.stockman.mltest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960857002406-3f3564pdss0dlf3sf4mfr2v8bd6hfukl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFawaJJySIFTnzIZvjxMT-oD23ntL_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960857002406-3f3564pdss0dlf3sf4mfr2v8bd6hfukl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960857002406:android:048d149ebd5a4006a53f67",
+        "android_client_info": {
+          "package_name": "com.stockman.mltest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960857002406-3f3564pdss0dlf3sf4mfr2v8bd6hfukl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFawaJJySIFTnzIZvjxMT-oD23ntL_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960857002406-3f3564pdss0dlf3sf4mfr2v8bd6hfukl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
